@@ -22,7 +22,7 @@ extension UDACITYClient {
         static let ApiPath = "/api"
         
         // MARK: Facebook
-        static let UdacityFBAppID = "365362206864879"
+        static let UdacityFBAppID = "Your Facebook ID"
         static let UdacityFBURLSchemeSuffix = "onthemap"
     }
     
