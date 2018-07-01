@@ -17,8 +17,8 @@ extension PARSEClient {
     struct Constants {
         
         // MARK: Parse
-        static let ParseAppID = "QrX47CA9cyuGewLdsL7o5Eb8iug6Em8ye0dnAbIr"
-        static let RestApiKey = "QuWThTdiRmTux3YaDseUSEpUKo7aBYM737yKd4gY"
+        static let ParseAppID = "Your App ID"
+        static let RestApiKey = "Your Api Key"
         
         static let ApiScheme = "https"
         static let ApiHost = "parse.udacity.com"
