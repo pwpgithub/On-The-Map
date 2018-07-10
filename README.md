@@ -8,7 +8,7 @@ An app with a map that shows information posted by other students. The map will 
   * iOS 11.3 or later
 
 ### Overview
-- Authentication view for login. Users can choose to login with username and password or use Facebook login
+- An Authentication view for login. Users can choose to login with username and password or use Facebook login
 - After login, a Tap Bar controller displays students' location on a Map and a table view.
 - Users can add or edit user's location information and web link.
 - After user added location and weblink information and submitted, user's information will be saved on the server.
